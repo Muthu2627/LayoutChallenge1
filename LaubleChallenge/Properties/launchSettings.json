@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LaubleChallenge (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LaubleChallenge (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
